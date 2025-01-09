@@ -1,4 +1,4 @@
-from portfolio import app
+from InfraTEL_flask import app
 from flask import render_template
 
 @app.route("/")
